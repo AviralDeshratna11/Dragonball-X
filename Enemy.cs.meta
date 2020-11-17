@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 36fb9bdc7349c7242a635a06d045a225
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fireballPrefab: {fileID: 7587419492527684724, guid: fb9fb347f39235745bb8647983f32e77,
+      type: 3}
+  - deathVFX: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

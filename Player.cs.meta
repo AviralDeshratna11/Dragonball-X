@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d561b1bdac55d4e4686b6ba428071ee9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dragonballprefab: {fileID: 7587419492527684724, guid: fb9fb347f39235745bb8647983f32e77,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
